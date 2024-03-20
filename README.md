@@ -173,13 +173,13 @@
 
 # Top Repositories
 
-[![HandWriting-Recognition](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Handwriting-Recognition&border_color=7F3FBF&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoonerMAK/Handwriting-Recognition)
-[![Whispering Shadow](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Whispering-Shadow&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoonerMAK/Whispering-Shadow)
-[![InternConnect](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=InternConnect&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoonerMAK/InternConnect)
-[![Competitive Programming](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Competitive-Programming&&border_color=7F3FBF&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoonerMAK/Competitive-Programming)
+[![HandWriting-Recognition](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Handwriting-Recognition&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Handwriting-Recognition)
+[![Whispering Shadow](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Whispering-Shadow&border_color=B0050a&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Whispering-Shadow)
+[![InternConnect](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=InternConnect&border_color=B0050a&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/InternConnect)
+[![Competitive Programming](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Competitive-Programming&&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Competitive-Programming)
 
 <p align="center">
-  <a href="https://github.com/GoonerMAK?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/GoonerMAK?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-B0050a?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -190,9 +190,9 @@
 
 <a> 
  <a href="https://github.com/GoonerMAK">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoonerMAK&theme=radical&border=7F3FBF&background=0D1117" alt="MAK's GitHub streak" height="260px" width="49.5%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoonerMAK&theme=radical&border=B0050a&background=0D1117" alt="MAK's GitHub streak" height="260px" width="49.5%"/>
   </a>
-  <a href="https://github.com/GoonerMAK"><img alt="MAK's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GoonerMAK&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="260px" width="49.5%"/></a>    
+  <a href="https://github.com/GoonerMAK"><img alt="MAK's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GoonerMAK&show_icons=true&count_private=true&theme=react&border_color=B0050a&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="260px" width="49.5%"/></a>    
 </a>
 
 
@@ -203,7 +203,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GoonerMAK"><img alt="MAK's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GoonerMAK&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px"/></a>
+  <a href="https://github.com/GoonerMAK"><img alt="MAK's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GoonerMAK&langs_count=10&layout=compact&theme=react&border_color=B0050a&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px"/></a>
   <br/>
 </p>
 
@@ -211,5 +211,5 @@
 
 
 
-![MAK's Graph](https://github-readme-activity-graph.vercel.app/graph?username=GoonerMAK&custom_title=MAK's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![MAK's Graph](https://github-readme-activity-graph.vercel.app/graph?username=GoonerMAK&custom_title=MAK's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B0050a&line=B0050a&point=B0050a&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
