@@ -85,22 +85,27 @@
 </a>
 
 <p>
-  Your friendly neighbourhood software student. Always open to learning new things and collaborate with people. 
- <img src="./assets/coyg-arsenal.gif" alt="COYG gif" />
+  Your friendly neighborhood software student👋, always up for a challenge and eager to practice the art of coding.
+
+  Collaborate being my forte 🤝 - Always strive to interact with people, learn new things and create something awesome!  
+  
+  Bit of a gaming enthusiast 🎮 and a lifeling Arsenal fan ❤️ #COYG
   
  <!-- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues) -->
-
 </p>
 <br/>
+<p align="center" >
+ <img height="70px" src="./assets/coyg-arsenal.gif" alt="COYG gif" />
+</p>
 
 
-# Currently Working On...
+<!-- <br/> -->
+<!-- # Currently Working On... -->
+<!-- <br/> -->
 
-
-<br/>
 
 # Technical Skills
 
@@ -181,7 +186,7 @@
 <hr/>
 <br/>
 
-# Some Stats
+# GitHub Stats
 
 <a> 
  <a href="https://github.com/GoonerMAK">
@@ -197,8 +202,8 @@
   </a>
 </p>
 
-<p align="right">
-  <a href="https://github.com/GoonerMAK"><img alt="MAK's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GoonerMAK&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px" width="49.5%"/></a>
+<p align="center">
+  <a href="https://github.com/GoonerMAK"><img alt="MAK's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GoonerMAK&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px"/></a>
   <br/>
 </p>
 
