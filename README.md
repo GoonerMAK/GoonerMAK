@@ -29,7 +29,7 @@
   <samp>
     <a href="https://hehe-caught-you.netlify.app/">「 Stalk Me 」</a>
     <br>
-    「 Software Engineer from <b>Bangladesh</b> 」
+    「 <b>Full-Stack Developer</b> 」
     <br>
     <br>
   </samp>
