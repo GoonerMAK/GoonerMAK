@@ -29,7 +29,7 @@
   <samp>
     <a href="https://hehe-caught-you.netlify.app/">「 Stalk Me 」</a>
     <br>
-    「 <b>Full-Stack Developer</b> 」
+    「 <b>Full-Stack Web Developer</b> 」
     <br>
     <br>
   </samp>
@@ -85,11 +85,11 @@
 </a>
 
 <p>
-  Your friendly neighborhood software developer👋, always up for a challenge and eager to practice the art of coding.
+  Your friendly neighborhood web developer👋, always up for a challenge and eager to practice the art of coding.
 
   Collaborate being my forte 🤝 - Always strive to interact with people, learn new things and create something awesome!  
   
-  Bit of a gaming enthusiast 🎮 and a lifeling Arsenal fan ❤️ #COYG
+  Bit of a gaming enthusiast 🎮 and a lifelong Arsenal fan ❤️ #COYG
   
  <!-- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
@@ -107,7 +107,7 @@
 <!-- <br/> -->
 
 
-# Technical Skills
+# Skills Summary
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
