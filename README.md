@@ -204,10 +204,11 @@
 
 # Top Repositories
 [![Expenditure-Management-App](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Expenditure_Management_App&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Expenditure_Management_App/tree/dev)
-[![Whispering Shadow](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Whispering-Shadow&border_color=B0050a&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Whispering-Shadow)
+[![Nationwide_Sales_Distribution_System](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Nationwide_Sales_Distribution_System&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Nationwide_Sales_Distribution_System)
 [![InternConnect](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=InternConnect&border_color=B0050a&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/InternConnect)
 [![Competitive Programming](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Competitive-Programming&&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Competitive-Programming)
-<!-- [![HandWriting-Recognition](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Handwriting-Recognition&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Handwriting-Recognition) -->
+<!-- [![HandWriting-Recognition](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Handwriting-Recognition&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Handwriting-Recognition) 
+[![Whispering Shadow](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Whispering-Shadow&border_color=B0050a&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Whispering-Shadow) -->
 
 <p align="center">
   <a href="https://github.com/GoonerMAK?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-B0050a?style=for-the-badge&logo=koding&logoColor=white"/></a>
