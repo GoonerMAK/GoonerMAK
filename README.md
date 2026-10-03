@@ -29,7 +29,7 @@
   <samp>
     <a href="https://hehe-caught-you.netlify.app/">「 Stalk Me 」</a>
     <br>
-    「 <b>Full-Stack Web Developer</b> 」
+    「 <b>Software Engineer</b> 」
     <br>
     <br>
   </samp>
@@ -40,6 +40,9 @@
   <img src="https://img.shields
   https://codeforces.com/profile/MAK_.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="GoonerMAK" />
  </a> -->
+ <a href="https://mashrur-ahsan.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-B0050a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+ </a>
  <a href="https://www.linkedin.com/in/mak-/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GoonerMAK" />
  </a>
@@ -152,6 +155,10 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+### Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
 ### Agentic Tools
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
@@ -207,8 +214,9 @@
 [![Nationwide_Sales_Distribution_System](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Nationwide_Sales_Distribution_System&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Nationwide_Sales_Distribution_System)
 [![InternConnect](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=InternConnect&border_color=B0050a&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/InternConnect)
 [![Competitive Programming](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Competitive-Programming&&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Competitive-Programming)
-<!-- [![HandWriting-Recognition](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Handwriting-Recognition&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Handwriting-Recognition) 
-[![Whispering Shadow](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Whispering-Shadow&border_color=B0050a&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Whispering-Shadow) -->
+[![CoGraph](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=cograph&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/cograph)
+[![Whispering Shadow](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Whispering-Shadow&border_color=B0050a&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Whispering-Shadow)
+<!-- [![HandWriting-Recognition](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Handwriting-Recognition&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Handwriting-Recognition) -->
 
 <p align="center">
   <a href="https://github.com/GoonerMAK?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-B0050a?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -244,4 +252,3 @@
 
 
 ![MAK's Graph](https://github-readme-activity-graph.vercel.app/graph?username=GoonerMAK&custom_title=MAK's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B0050a&line=B0050a&point=B0050a&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
