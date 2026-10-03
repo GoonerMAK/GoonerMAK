@@ -214,8 +214,8 @@
 [![Nationwide_Sales_Distribution_System](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Nationwide_Sales_Distribution_System&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Nationwide_Sales_Distribution_System)
 [![InternConnect](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=InternConnect&border_color=B0050a&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/InternConnect)
 [![Competitive Programming](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Competitive-Programming&&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Competitive-Programming)
-[![CoGraph](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=cograph&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/cograph)
-[![Whispering Shadow](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Whispering-Shadow&border_color=B0050a&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Whispering-Shadow)
+<!-- [![CoGraph](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=cograph&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/cograph) -->
+<!-- [![Whispering Shadow](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Whispering-Shadow&border_color=B0050a&bg_color=0D1117&title_color=C9D1D8&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Whispering-Shadow) -->
 <!-- [![HandWriting-Recognition](https://github-readme-stats.vercel.app/api/pin/?username=GoonerMAK&repo=Handwriting-Recognition&border_color=B0050a&bg_color=0D1118&title_color=C9D1D9&text_color=8B949E&icon_color=B0050a)](https://github.com/GoonerMAK/Handwriting-Recognition) -->
 
 <p align="center">
